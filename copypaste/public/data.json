@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "On The Road",
+        "author": "Jack Kerouac",
+        "price": 10,
+        "img": "https://www.irinadelgado.com/wp-content/uploads/2020/04/herramienta-ejemplos-2.png"
+    },
+    {
+        "id": 2,
+        "name": "The Subterraneans",
+        "author": "Jack Kerouac",
+        "price": 20,
+        "img": "https://www.irinadelgado.com/wp-content/uploads/2020/04/herramienta-ejemplos-2.png"    },
+    {
+        "id": 3,
+        "name": "Indian Journals",
+        "author": "Allen Ginsberg",
+        "price": 27,
+        "img": "https://www.irinadelgado.com/wp-content/uploads/2020/04/herramienta-ejemplos-2.png"    },
+    {
+        "id": 4,
+        "name": "Iron Horse",
+        "author": "Allen Ginsberg",
+        "price": 18,
+        "img": "https://www.irinadelgado.com/wp-content/uploads/2020/04/herramienta-ejemplos-2.png"    }
+    
+]
